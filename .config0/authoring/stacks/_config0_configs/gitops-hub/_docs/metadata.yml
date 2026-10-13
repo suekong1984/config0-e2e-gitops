@@ -1,0 +1,11 @@
+desc: 'Managed private replay stack of project gitops-hub: folders of williaumwu/config0-e2e-gitops
+  at 2b5774a0328bea9f40dbecf1106907047e804417'
+release: 0.1.0
+author: config0 day-one code
+license: GPL-3.0
+categories:
+- replay
+tags:
+- replay
+- gitops
+- managed
