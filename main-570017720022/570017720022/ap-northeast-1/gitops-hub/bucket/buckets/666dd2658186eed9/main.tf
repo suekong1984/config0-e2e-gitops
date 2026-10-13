@@ -7,6 +7,7 @@ resource "aws_s3_bucket" "default" {
     var.cloud_tags,
     {
       Product = "s3"
+      con88   = "check1"
     },
   )
 
